@@ -9,7 +9,7 @@ public class cliente {
     public static void main(String[] args) {
 
         // CAMBIA ESTA IP SI ES OTRO COMPUTADOR
-        String host = "192.168.1.15"; //ip servidor wifi ipconfig
+        String host = "192.168.201.83"; //ip servidor wifi ipconfig
         int puerto = 5000;
 
         Scanner scanner = new Scanner(System.in);
